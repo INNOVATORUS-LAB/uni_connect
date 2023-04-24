@@ -72,3 +72,5 @@ group :test do
 end
 
 gem "dotenv-rails", "~> 2.8"
+
+gem "tailwindcss-rails", "~> 2.0"
